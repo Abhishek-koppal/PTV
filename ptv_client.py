@@ -28,7 +28,7 @@ def build_signed_url(request_path: str) -> str:
     return f"{BASE_URL}{raw}&signature={signature}"
 
 
-def get_departures(stop_id: int, route_type: int = 0):
+def get_departures(stop_id, route_type=0):
     path = f"/v3/departures/route_type/{route_type}/stop/{stop_id}"
     url = build_signed_url(path)
     response = requests.get(url)
