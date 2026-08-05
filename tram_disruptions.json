@@ -1,0 +1,195 @@
+{
+  "disruptions": {
+    "general": [],
+    "metro_train": [],
+    "metro_tram": [
+      {
+        "disruption_id": 357172,
+        "title": "Route 58: Temporary stop closure on Kings Way until further notice",
+        "url": "http://ptv.vic.gov.au/live-travel-updates/article/route-58-temporary-stop-closure-on-kings-way-until-further-notice",
+        "description": "Two Route 58 tram stops are temporarily closed in one direction, until further notice:",
+        "disruption_status": "Current",
+        "disruption_type": "Planned Closure",
+        "published_on": "2026-03-06T03:45:00Z",
+        "last_updated": "2026-03-06T03:45:01Z",
+        "from_date": "2026-01-01T03:42:00Z",
+        "to_date": null,
+        "routes": [
+          {
+            "route_type": 1,
+            "route_id": 11529,
+            "route_name": "West Coburg - Toorak",
+            "route_number": "58",
+            "route_gtfs_id": "3-058",
+            "direction": null
+          }
+        ],
+        "stops": [],
+        "colour": "#ffd500",
+        "display_on_board": false,
+        "display_status": false
+      },
+      {
+        "disruption_id": 367497,
+        "title": "Route 96: Temporary stop closures from 4.30pm Saturday 5 September to 8pm Sunday 6 September 2026",
+        "url": "http://ptv.vic.gov.au/live-travel-updates/article/route-96-temporary-stop-closures-from-4-30pm-saturday-5-september-to-8pm-sunday-6-september-2026",
+        "description": "Route 96 trams will be affected by temporary tram stop closures from 4.30pm Saturday 5 September to 8pm Sunday 6 September 2026, due to the Acland Street Father's Day Car and Bike Show.",
+        "disruption_status": "Planned",
+        "disruption_type": "Planned Closure",
+        "published_on": "2026-08-03T05:17:45Z",
+        "last_updated": "2026-08-03T05:17:46Z",
+        "from_date": "2026-09-05T06:30:00Z",
+        "to_date": "2026-09-06T10:00:00Z",
+        "routes": [
+          {
+            "route_type": 1,
+            "route_id": 1041,
+            "route_name": "East Brunswick - St Kilda Beach",
+            "route_number": "96",
+            "route_gtfs_id": "3-096",
+            "direction": null
+          }
+        ],
+        "stops": [],
+        "colour": "#ffd500",
+        "display_on_board": false,
+        "display_status": false
+      },
+      {
+        "disruption_id": 366772,
+        "title": "Routes 6, 19 & 58: Service changes from first tram Friday 21 August to last tram Monday 5 October 2026",
+        "url": "http://ptv.vic.gov.au/live-travel-updates/article/routes-6-19-and-58-service-changes-from-first-tram-friday-21-august-to-last-tram-monday-5-october-2026",
+        "description": "Service changes for Tram Routes 6, 19 &amp; 58 from first tram Friday 21 August to last tram Monday 5 October 2026, due to Brunswick Tram Depot upgrade.",
+        "disruption_status": "Planned",
+        "disruption_type": "Planned Works",
+        "published_on": "2026-07-21T20:27:19Z",
+        "last_updated": "2026-07-21T20:32:21Z",
+        "from_date": "2026-08-20T17:00:00Z",
+        "to_date": "2026-10-05T16:00:00Z",
+        "routes": [
+          {
+            "route_type": 1,
+            "route_id": 11544,
+            "route_name": "Moreland - Glen Iris",
+            "route_number": "6",
+            "route_gtfs_id": "3-006",
+            "direction": null
+          },
+          {
+            "route_type": 1,
+            "route_id": 725,
+            "route_name": "North Coburg - Flinders Street Station",
+            "route_number": "19",
+            "route_gtfs_id": "3-019",
+            "direction": null
+          },
+          {
+            "route_type": 1,
+            "route_id": 11529,
+            "route_name": "West Coburg - Toorak",
+            "route_number": "58",
+            "route_gtfs_id": "3-058",
+            "direction": null
+          }
+        ],
+        "stops": [],
+        "colour": "#ffd500",
+        "display_on_board": false,
+        "display_status": false
+      },
+      {
+        "disruption_id": 366621,
+        "title": "Route 58: Service changes from first tram Saturday 15 August to last tram Sunday 16 August 2026,",
+        "url": "http://ptv.vic.gov.au/live-travel-updates/article/route-58-service-changes-from-first-tram-saturday-15-august-to-last-tram-sunday-16-august-2026",
+        "description": "Service changes for Route 58 trams from First tram Saturday 15 August to last tram Sunday 16 August 2026, due to Queens Bridge Street works.",
+        "disruption_status": "Planned",
+        "disruption_type": "Planned Works",
+        "published_on": "2026-07-19T03:46:27Z",
+        "last_updated": "2026-07-19T03:46:28Z",
+        "from_date": "2026-08-14T17:00:00Z",
+        "to_date": "2026-08-16T17:00:00Z",
+        "routes": [
+          {
+            "route_type": 1,
+            "route_id": 11529,
+            "route_name": "West Coburg - Toorak",
+            "route_number": "58",
+            "route_gtfs_id": "3-058",
+            "direction": null
+          }
+        ],
+        "stops": [],
+        "colour": "#ffd500",
+        "display_on_board": false,
+        "display_status": false
+      },
+      {
+        "disruption_id": 366098,
+        "title": "Route 109: Buses replace trams from first tram Friday 14 August to last tram Monday 17 August 2026",
+        "url": "http://ptv.vic.gov.au/live-travel-updates/article/route-109-buses-replace-trams-from-friday-14-august-to-last-tram-monday-17-august-2026",
+        "description": "Buses will replace Route 109 trams from first tram Friday 14 August to last tram Monday 17 August 2026, due to upgrade works at Port Melbourne Substation.",
+        "disruption_status": "Planned",
+        "disruption_type": "Planned Works",
+        "published_on": "2026-07-10T02:03:13Z",
+        "last_updated": "2026-07-10T02:03:14Z",
+        "from_date": "2026-08-13T17:00:00Z",
+        "to_date": "2026-08-17T17:00:00Z",
+        "routes": [
+          {
+            "route_type": 1,
+            "route_id": 722,
+            "route_name": "Box Hill - Port Melbourne",
+            "route_number": "109",
+            "route_gtfs_id": "3-109",
+            "direction": null
+          }
+        ],
+        "stops": [],
+        "colour": "#ffd500",
+        "display_on_board": false,
+        "display_status": false
+      },
+      {
+        "disruption_id": 362362,
+        "title": "Route 48: Service changes from 10am to 9pm each day, Saturday 15 August and Sunday 16 August 2026",
+        "url": "http://ptv.vic.gov.au/live-travel-updates/article/wed-13-may-metropolitan-trams-disrupted-12",
+        "description": "Route 48 trams will experience service changes from 10am to 9pm each day, Saturday 15 August and Sunday 16 August, due to traffic impacts with the Eastern Freeway closure.",
+        "disruption_status": "Planned",
+        "disruption_type": "Service Information",
+        "published_on": "2026-05-12T21:01:29Z",
+        "last_updated": "2026-07-31T00:14:54Z",
+        "from_date": "2026-08-15T00:00:00Z",
+        "to_date": "2026-08-16T11:00:00Z",
+        "routes": [
+          {
+            "route_type": 1,
+            "route_id": 2903,
+            "route_name": "North Balwyn - Victoria Harbour Docklands",
+            "route_number": "48",
+            "route_gtfs_id": "3-048",
+            "direction": null
+          }
+        ],
+        "stops": [],
+        "colour": "#ffd500",
+        "display_on_board": false,
+        "display_status": false
+      }
+    ],
+    "metro_bus": [],
+    "regional_train": [],
+    "regional_coach": [],
+    "regional_bus": [],
+    "school_bus": [],
+    "telebus": [],
+    "night_bus": [],
+    "ferry": [],
+    "interstate_train": [],
+    "skybus": [],
+    "taxi": []
+  },
+  "status": {
+    "version": "3.0",
+    "health": 1
+  }
+}
